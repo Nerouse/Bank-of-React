@@ -1,0 +1,20 @@
+.header{
+	font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.Home{
+	font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-image: url(https://img4.goodfon.com/wallpaper/big/c/2a/vector-blue-squares-abstract-background-abstraktsiia-geometr.jpg);
+  min-width: 100%;
+  min-height: 100%;
+  background-size: cover;
+  background-position: center;
+
+  	font-size: 25px;
+}
+th, tr {
+  background-color: rgba(0, 0, 0,0.3);
+  color: white;
+  text-align: center;
+}
